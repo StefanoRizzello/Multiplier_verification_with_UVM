@@ -1,0 +1,337 @@
+/home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/common/unpackfp_unpackfp.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/common/unpackfp_unpackfp.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity UnpackFP
+-- Compiling architecture UnpackFP of UnpackFP
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/packfp_packfp.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/packfp_packfp.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity PackFP
+-- Compiling architecture PackFP of PackFP
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/fpmul_stage2_struct_mbe.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/fpmul_stage2_struct_mbe.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity FPmul_stage2
+-- Compiling architecture struct of FPmul_stage2
+-- Loading entity ff
+-- Loading entity reg
+-- Loading package NUMERIC_STD
+-- Loading entity MBE_multiplier
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/half_adder.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/half_adder.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity half_adder
+-- Compiling architecture rtl of half_adder
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/common/packfp_packfp.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/common/packfp_packfp.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity PackFP
+-- Compiling architecture PackFP of PackFP
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpround_fpround.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpround_fpround.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity FPround
+-- Compiling architecture FPround of FPround
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/half_adder.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/half_adder.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity half_adder
+-- Compiling architecture rtl of half_adder
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/ff.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/ff.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ff
+-- Compiling architecture str of ff
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/common/fpround_fpround.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/common/fpround_fpround.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity FPround
+-- Compiling architecture FPround of FPround
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpnormalize_fpnormalize.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpnormalize_fpnormalize.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity FPnormalize
+-- Compiling architecture FPnormalize of FPnormalize
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpmul_stage2_struct.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpmul_stage2_struct.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity FPmul_stage2
+-- Compiling architecture struct of FPmul_stage2
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/dadda_tree.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/dadda_tree.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity dadda_tree
+-- Compiling architecture arch of dadda_tree
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/ff.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/ff.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ff
+-- Compiling architecture str of ff
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/fpmul_pipeline_reg.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/fpmul_pipeline_reg.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity FPmul
+-- Compiling architecture pipeline of FPmul
+-- Loading entity FPmul_stage1
+-- Loading entity FPmul_stage2
+-- Loading entity FPmul_stage3
+-- Loading entity FPmul_stage4
+-- Loading entity reg
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/reg.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/reg.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg
+-- Compiling architecture str of reg
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/common/fpnormalize_fpnormalize.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/common/fpnormalize_fpnormalize.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity FPnormalize
+-- Compiling architecture FPnormalize of FPnormalize
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/common/fpmul_stage2_struct.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/common/fpmul_stage2_struct.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity FPmul_stage2
+-- Compiling architecture struct of FPmul_stage2
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/dadda_tree.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/dadda_tree.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity dadda_tree
+-- Compiling architecture arch of dadda_tree
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpmul_stage4_struct.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpmul_stage4_struct.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity FPmul_stage4
+-- Compiling architecture struct of FPmul_stage4
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity FPnormalize
+-- Loading entity PackFP
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/fpmul_pipeline_reg.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/fpmul_pipeline_reg.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity FPmul
+-- Compiling architecture pipeline of FPmul
+-- Loading entity FPmul_stage1
+-- Loading entity FPmul_stage2
+-- Loading entity FPmul_stage3
+-- Loading entity FPmul_stage4
+-- Loading entity reg
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/reg.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/reg.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg
+-- Compiling architecture str of reg
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/common/fpmul_stage4_struct.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/common/fpmul_stage4_struct.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity FPmul_stage4
+-- Compiling architecture struct of FPmul_stage4
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity FPnormalize
+-- Loading entity PackFP
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/full_adder.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/full_adder.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity full_adder
+-- Compiling architecture gate_level of full_adder
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/mbe_multiplier.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/mbe_multiplier.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MBE_multiplier
+-- Compiling architecture arch of MBE_multiplier
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/MBE_encoder.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/MBE_encoder.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MBE_encoder
+-- Compiling architecture str of MBE_encoder
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/mbe_multiplier.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/mbe_multiplier.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MBE_multiplier
+-- Compiling architecture arch of MBE_multiplier
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/full_adder.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/full_adder.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity full_adder
+-- Compiling architecture gate_level of full_adder
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpmul_stage1_struct.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpmul_stage1_struct.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity FPmul_stage1
+-- Compiling architecture struct of FPmul_stage1
+-- Loading entity UnpackFP
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/MBE_encoder.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/MBE_encoder.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MBE_encoder
+-- Compiling architecture str of MBE_encoder
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/common/fpmul_stage1_struct.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/common/fpmul_stage1_struct.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity FPmul_stage1
+-- Compiling architecture struct of FPmul_stage1
+-- Loading entity UnpackFP
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpmul_stage3_struct.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpmul_stage3_struct.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity FPmul_stage3
+-- Compiling architecture struct of FPmul_stage3
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity FPnormalize
+-- Loading entity FPround
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/unpackfp_unpackfp.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/unpackfp_unpackfp.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity UnpackFP
+-- Compiling architecture UnpackFP of UnpackFP
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/common/fpmul_stage3_struct.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4_copy/hdl/src/common/fpmul_stage3_struct.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity FPmul_stage3
+-- Compiling architecture struct of FPmul_stage3
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity FPnormalize
+-- Loading entity FPround
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/fpmul_stage2_struct_mbe.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/fpmul_stage2_struct_mbe.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity FPmul_stage2
+-- Compiling architecture struct of FPmul_stage2
+-- Loading entity ff
+-- Loading entity reg
+-- Loading package NUMERIC_STD
+-- Loading entity MBE_multiplier
+
+} {} {}}

@@ -1,0 +1,90 @@
+Information: Updating design information... (UID-85)
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : MBE_multiplier
+Version: O-2018.06-SP4
+Date   : Thu Apr  7 22:07:32 2022
+****************************************
+
+Operating Conditions: typical   Library: NangateOpenCellLibrary
+Wire Load Model Mode: top
+
+  Startpoint: B[0] (input port)
+  Endpoint: Z[47] (output port)
+  Path Group: (none)
+  Path Type: max
+
+  Des/Clust/Port     Wire Load Model       Library
+  ------------------------------------------------
+  MBE_multiplier     5K_hvratio_1_1        NangateOpenCellLibrary
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  input external delay                                    0.00       0.00 f
+  B[0] (in)                                               0.00       0.00 f
+  U4408/ZN (INV_X1)                                       0.14       0.14 r
+  U4407/ZN (NAND2_X1)                                     0.18       0.33 f
+  U3102/ZN (OAI22_X1)                                     0.13       0.45 r
+  U3100/Z (XOR2_X1)                                       0.04       0.49 f
+  U3099/Z (XOR2_X1)                                       0.08       0.57 f
+  dadda_tree_imp/add_1465/A[2] (MBE_multiplier_DW01_add_0)
+                                                          0.00       0.57 f
+  dadda_tree_imp/add_1465/U1_2/CO (FA_X1)                 0.10       0.68 f
+  dadda_tree_imp/add_1465/U1_3/CO (FA_X1)                 0.09       0.77 f
+  dadda_tree_imp/add_1465/U1_4/CO (FA_X1)                 0.09       0.86 f
+  dadda_tree_imp/add_1465/U1_5/CO (FA_X1)                 0.09       0.95 f
+  dadda_tree_imp/add_1465/U1_6/CO (FA_X1)                 0.09       1.04 f
+  dadda_tree_imp/add_1465/U1_7/CO (FA_X1)                 0.09       1.13 f
+  dadda_tree_imp/add_1465/U1_8/CO (FA_X1)                 0.09       1.22 f
+  dadda_tree_imp/add_1465/U1_9/CO (FA_X1)                 0.09       1.31 f
+  dadda_tree_imp/add_1465/U1_10/CO (FA_X1)                0.09       1.40 f
+  dadda_tree_imp/add_1465/U1_11/CO (FA_X1)                0.09       1.49 f
+  dadda_tree_imp/add_1465/U1_12/CO (FA_X1)                0.09       1.58 f
+  dadda_tree_imp/add_1465/U1_13/CO (FA_X1)                0.09       1.67 f
+  dadda_tree_imp/add_1465/U1_14/CO (FA_X1)                0.09       1.76 f
+  dadda_tree_imp/add_1465/U1_15/CO (FA_X1)                0.09       1.85 f
+  dadda_tree_imp/add_1465/U1_16/CO (FA_X1)                0.09       1.94 f
+  dadda_tree_imp/add_1465/U1_17/CO (FA_X1)                0.09       2.04 f
+  dadda_tree_imp/add_1465/U1_18/CO (FA_X1)                0.09       2.13 f
+  dadda_tree_imp/add_1465/U1_19/CO (FA_X1)                0.09       2.22 f
+  dadda_tree_imp/add_1465/U1_20/CO (FA_X1)                0.09       2.31 f
+  dadda_tree_imp/add_1465/U1_21/CO (FA_X1)                0.09       2.40 f
+  dadda_tree_imp/add_1465/U1_22/CO (FA_X1)                0.09       2.49 f
+  dadda_tree_imp/add_1465/U1_23/CO (FA_X1)                0.09       2.58 f
+  dadda_tree_imp/add_1465/U1_24/CO (FA_X1)                0.09       2.67 f
+  dadda_tree_imp/add_1465/U1_25/CO (FA_X1)                0.09       2.76 f
+  dadda_tree_imp/add_1465/U1_26/CO (FA_X1)                0.09       2.85 f
+  dadda_tree_imp/add_1465/U1_27/CO (FA_X1)                0.09       2.94 f
+  dadda_tree_imp/add_1465/U1_28/CO (FA_X1)                0.09       3.03 f
+  dadda_tree_imp/add_1465/U1_29/CO (FA_X1)                0.09       3.12 f
+  dadda_tree_imp/add_1465/U1_30/CO (FA_X1)                0.09       3.21 f
+  dadda_tree_imp/add_1465/U1_31/CO (FA_X1)                0.09       3.30 f
+  dadda_tree_imp/add_1465/U1_32/CO (FA_X1)                0.09       3.40 f
+  dadda_tree_imp/add_1465/U1_33/CO (FA_X1)                0.09       3.49 f
+  dadda_tree_imp/add_1465/U1_34/CO (FA_X1)                0.09       3.58 f
+  dadda_tree_imp/add_1465/U1_35/CO (FA_X1)                0.09       3.67 f
+  dadda_tree_imp/add_1465/U1_36/CO (FA_X1)                0.09       3.76 f
+  dadda_tree_imp/add_1465/U1_37/CO (FA_X1)                0.09       3.85 f
+  dadda_tree_imp/add_1465/U1_38/CO (FA_X1)                0.09       3.94 f
+  dadda_tree_imp/add_1465/U1_39/CO (FA_X1)                0.09       4.03 f
+  dadda_tree_imp/add_1465/U1_40/CO (FA_X1)                0.09       4.12 f
+  dadda_tree_imp/add_1465/U1_41/CO (FA_X1)                0.09       4.21 f
+  dadda_tree_imp/add_1465/U1_42/CO (FA_X1)                0.09       4.30 f
+  dadda_tree_imp/add_1465/U1_43/CO (FA_X1)                0.09       4.39 f
+  dadda_tree_imp/add_1465/U1_44/CO (FA_X1)                0.09       4.48 f
+  dadda_tree_imp/add_1465/U1_45/CO (FA_X1)                0.09       4.57 f
+  dadda_tree_imp/add_1465/U1_46/CO (FA_X1)                0.09       4.66 f
+  dadda_tree_imp/add_1465/U1_47/S (FA_X1)                 0.14       4.80 r
+  dadda_tree_imp/add_1465/SUM[47] (MBE_multiplier_DW01_add_0)
+                                                          0.00       4.80 r
+  Z[47] (out)                                             0.02       4.82 r
+  data arrival time                                                  4.82
+  --------------------------------------------------------------------------
+  (Path is unconstrained)
+
+
+1

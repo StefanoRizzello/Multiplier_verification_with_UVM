@@ -1,0 +1,14 @@
+/home/isa18_2021_2022/github/isa/lab4/point_3/hdl/src/MBE_multiplier_tb.vhd {1 {vcom -work work -2002 -explicit /home/isa18_2021_2022/github/isa/lab4/point_3/hdl/src/MBE_multiplier_tb.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity mbe_multiplier_tb
+-- Compiling architecture arch of mbe_multiplier_tb
+-- Loading package vl_types
+-- Loading entity mbe_multiplier
+-- Compiling configuration mbe_multiplier_tb_arch_cfg
+-- Loading entity mbe_multiplier_tb
+-- Loading architecture arch of mbe_multiplier_tb
+
+} {} {}}

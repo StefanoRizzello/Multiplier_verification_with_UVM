@@ -1,0 +1,74 @@
+m255
+13
+cModel Technology
+d/home/isa18_2021_2022/github/isa/lab4/point_3/modelsim
+T_opt
+VliWPHR5e9f?JOM:T7OSNh2
+06 17 4 ./work mbe_multiplier_tb arch 0
+o-quiet -auto_acc_if_foreign -work work -L /software/dk/nangate45/verilog/msim6.2g -sdftyp /mbe_multiplier_tb/dut=../netlist/mbe_multiplier.sdf -suppress 1948
+tExplicit 1
+OE;O;6.2g;35
+vMBE_multiplier
+w1649362052
+III=VlMR]mAHe3BW0]5NjA3
+VH:7:USXKdkzYbM?aeZLXM3
+8/home/isa18_2021_2022/github/isa/lab4/point_3/netlist/mbe_multiplier.v
+F/home/isa18_2021_2022/github/isa/lab4/point_3/netlist/mbe_multiplier.v
+L0 8
+VH:7:USXKdkzYbM?aeZLXM3
+OE;L;6.2g;35
+r1
+31
+o-work work
+n@m@b@e_multiplier
+Embe_multiplier_tb
+w1649360635
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+8/home/isa18_2021_2022/github/isa/lab4/point_3/hdl/tb/mbe_multiplier_tb.vhd
+F/home/isa18_2021_2022/github/isa/lab4/point_3/hdl/tb/mbe_multiplier_tb.vhd
+l0
+L28
+VA=?KCJkOX@2=YhlBUmMM31
+OE;C;6.2g;35
+o-work work -2002 -explicit
+tExplicit 1
+Aarch
+DP verilog vl_types EL`7Km5528[`SUe@0N=SW0
+DE work mbe_multiplier H:7:USXKdkzYbM?aeZLXM3
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work mbe_multiplier_tb A=?KCJkOX@2=YhlBUmMM31
+32
+M3 ieee std_logic_1164
+M2 ieee numeric_std
+M1 verilog vl_types
+l44
+L34
+V?Bg=JUW_9Ajz_ShFBo=G^0
+OE;C;6.2g;35
+o-work work -2002 -explicit
+tExplicit 1
+Cmbe_multiplier_tb_arch_cfg
+aarch
+embe_multiplier_tb
+DE work mbe_multiplier H:7:USXKdkzYbM?aeZLXM3
+DP verilog vl_types EL`7Km5528[`SUe@0N=SW0
+DA work mbe_multiplier_tb arch ?Bg=JUW_9Ajz_ShFBo=G^0
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work mbe_multiplier_tb A=?KCJkOX@2=YhlBUmMM31
+w1649360635
+8/home/isa18_2021_2022/github/isa/lab4/point_3/hdl/tb/mbe_multiplier_tb.vhd
+F/home/isa18_2021_2022/github/isa/lab4/point_3/hdl/tb/mbe_multiplier_tb.vhd
+l0
+L65
+VTHBFM`I3c4DOH0e31FO4W3
+OE;C;6.2g;35
+32
+M3 ieee std_logic_1164
+M2 ieee numeric_std
+M1 verilog vl_types
+o-work work -2002 -explicit
+tExplicit 1

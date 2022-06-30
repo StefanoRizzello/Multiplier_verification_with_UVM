@@ -1,0 +1,29 @@
+ 
+****************************************
+Report : resources
+Design : MBE_multiplier
+Version: O-2018.06-SP4
+Date   : Thu Apr  7 22:07:32 2022
+****************************************
+
+Resource Sharing Report for design MBE_multiplier in file
+        ../hdl/src/MBE_encoder.vhd
+
+===============================================================================
+|          |              |            | Contained     |                      |
+| Resource | Module       | Parameters | Resources     | Contained Operations |
+===============================================================================
+| r320     | DW01_add     | width=48   |               | dadda_tree_imp/add_1465 |
+===============================================================================
+
+
+Implementation Report
+===============================================================================
+|                    |                  | Current            | Set            |
+| Cell               | Module           | Implementation     | Implementation |
+===============================================================================
+| dadda_tree_imp/add_1465               |                    |                |
+|                    | DW01_add         | rpl                |                |
+===============================================================================
+
+1

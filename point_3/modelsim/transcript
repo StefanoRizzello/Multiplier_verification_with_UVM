@@ -1,0 +1,68 @@
+# //  ModelSim SE 6.2g Feb 21 2007 Linux 3.10.0-957.5.1.el7.x86_64
+# //
+# //  Copyright 1991-2007 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading project mbe_sim
+project close
+# reading /software/mentor/modelsim_6.2g/linux/../modelsim.ini
+do scripts/run_postsynth.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Loading project mbe_multiplier_proj
+# Compile of mbe_multiplier_tb.vhd failed with 1 errors.
+# Compile of mbe_multiplier.v was successful.
+# 2 compiles, 1 failed with 1 error. 
+# vsim -L /software/dk/nangate45/verilog/msim6.2g -sdftyp /mbe_multiplier_tb/dut=../netlist/mbe_multiplier.sdf work.mbe_multiplier_tb 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: Failed to find design unit work.mbe_multiplier_tb.
+# Optimization failed
+# Error loading design
+# Error: Error loading design 
+#        Pausing macro execution 
+# MACRO ./scripts/run_postsynth.do PAUSED at line 6
+project compileall
+# Compile of mbe_multiplier_tb.vhd was successful.
+# Compile of mbe_multiplier.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -L /software/dk/nangate45/verilog/msim6.2g -sdftyp /mbe_multiplier_tb/dut=../netlist/mbe_multiplier.sdf work.mbe_multiplier_tb
+# vsim -L /software/dk/nangate45/verilog/msim6.2g -sdftyp /mbe_multiplier_tb/dut=../netlist/mbe_multiplier.sdf work.mbe_multiplier_tb 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading /software/mentor/modelsim_6.2g/linux/../std.standard
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_1164(body)
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.numeric_std(body)
+# Loading /software/mentor/modelsim_6.2g/linux/../verilog.vl_types(body)
+# Loading work.mbe_multiplier_tb(arch)
+# Loading work.MBE_multiplier(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.XNOR2_X2(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.XOR2_X2(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.INV_X2(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.INV_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.NOR2_X4(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.XOR2_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.OAI22_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.NAND2_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.MUX2_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.NOR2_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.XNOR2_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.OAI21_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.AOI21_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.AND2_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.NAND3_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.OAI211_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.AOI22_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.OR2_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.AOI211_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.NOR3_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.FA_X1(fast)
+# Loading instances from ../netlist/mbe_multiplier.sdf
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_3/netlist/mbe_multiplier.v(2961): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /mbe_multiplier_tb/dut/dadda_tree_imp_add_1465_U1_47
+# Loading timing data from ../netlist/mbe_multiplier.sdf
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ns  Iteration: 0  Region: /mbe_multiplier_tb  File: /home/isa18_2021_2022/github/isa/lab4/point_3/hdl/tb/mbe_multiplier_tb.vhd
+resume

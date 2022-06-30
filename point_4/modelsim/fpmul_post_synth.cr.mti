@@ -1,0 +1,15 @@
+/home/isa18_2021_2022/github/isa/lab4/point_4/hdl/tb/tb_fpmul_reg.v {1 {vlog -work work -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/tb/tb_fpmul_reg.v
+Model Technology ModelSim SE vlog 6.2g Compiler 2007.02 Feb 21 2007
+-- Compiling module tb_fpmul
+
+Top level modules:
+	tb_fpmul
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v {1 {vlog -work work -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v
+Model Technology ModelSim SE vlog 6.2g Compiler 2007.02 Feb 21 2007
+-- Compiling module FPmul
+
+Top level modules:
+	FPmul
+
+} {} {}}

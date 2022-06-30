@@ -1,0 +1,249 @@
+/home/isa18_2021_2022/github/isa/lab4/point_4/hdl/tb/clk_gen.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/tb/clk_gen.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity clk_gen
+-- Compiling architecture beh of clk_gen
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/packfp_packfp.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/packfp_packfp.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity packfp
+-- Compiling architecture packfp of packfp
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_3/hdl/src/mbe_multiplier.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_3/hdl/src/mbe_multiplier.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity mbe_multiplier
+-- Compiling architecture arch of mbe_multiplier
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_3/hdl/src/full_adder.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_3/hdl/src/full_adder.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity full_adder
+-- Compiling architecture gate_level of full_adder
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_3/netlist/mbe_multiplier.v {1 {vlog -work work -vopt /home/isa18_2021_2022/github/isa/lab4/point_3/netlist/mbe_multiplier.v
+Model Technology ModelSim SE vlog 6.2g Compiler 2007.02 Feb 21 2007
+-- Compiling module MBE_multiplier
+
+Top level modules:
+	MBE_multiplier
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/half_adder.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/half_adder.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity half_adder
+-- Compiling architecture rtl of half_adder
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/tb/data_sink_stage2_opt.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/tb/data_sink_stage2_opt.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package textio
+-- Loading package std_logic_textio
+-- Compiling entity data_sink
+-- Compiling architecture beh of data_sink
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpround_fpround.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpround_fpround.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity fpround
+-- Compiling architecture fpround of fpround
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/ff.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/ff.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity ff
+-- Compiling architecture str of ff
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpnormalize_fpnormalize.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpnormalize_fpnormalize.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity fpnormalize
+-- Compiling architecture fpnormalize of fpnormalize
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpmul_stage2_struct.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpmul_stage2_struct.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity fpmul_stage2
+-- Compiling architecture struct of fpmul_stage2
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/dadda_tree.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/dadda_tree.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity dadda_tree
+-- Compiling architecture arch of dadda_tree
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/fpmul_pipeline_reg.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/fpmul_pipeline_reg.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity fpmul
+-- Compiling architecture pipeline of fpmul
+-- Loading entity fpmul_stage1
+-- Loading entity fpmul_stage2
+-- Loading entity fpmul_stage3
+-- Loading entity fpmul_stage4
+-- Loading entity reg
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/reg.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/reg.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity reg
+-- Compiling architecture str of reg
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/tb/data_maker.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/tb/data_maker.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package textio
+-- Loading package std_logic_textio
+-- Compiling entity data_maker
+-- Compiling architecture beh of data_maker
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpmul_stage4_struct.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpmul_stage4_struct.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity fpmul_stage4
+-- Compiling architecture struct of fpmul_stage4
+-- Loading package std_logic_unsigned
+-- Loading entity fpnormalize
+-- Loading entity packfp
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_3/hdl/src/half_adder.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_3/hdl/src/half_adder.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity half_adder
+-- Compiling architecture rtl of half_adder
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_3/hdl/src/MBE_encoder.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_3/hdl/src/MBE_encoder.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity mbe_encoder
+-- Compiling architecture str of mbe_encoder
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/full_adder.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/full_adder.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity full_adder
+-- Compiling architecture gate_level of full_adder
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/mbe_multiplier.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/mbe_multiplier.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity mbe_multiplier
+-- Compiling architecture arch of mbe_multiplier
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/MBE_encoder.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/MBE_encoder.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity mbe_encoder
+-- Compiling architecture str of mbe_encoder
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpmul_stage1_struct.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpmul_stage1_struct.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity fpmul_stage1
+-- Compiling architecture struct of fpmul_stage1
+-- Loading entity unpackfp
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_3/hdl/src/dadda_tree.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_3/hdl/src/dadda_tree.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity dadda_tree
+-- Compiling architecture arch of dadda_tree
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_3/hdl/tb/mbe_multiplier_tb.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_3/hdl/tb/mbe_multiplier_tb.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity mbe_multiplier_tb
+-- Compiling architecture arch of mbe_multiplier_tb
+-- Loading package vl_types
+-- Loading entity mbe_multiplier
+-- Compiling configuration mbe_multiplier_tb_arch_cfg
+-- Loading entity mbe_multiplier_tb
+-- Loading architecture arch of mbe_multiplier_tb
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpmul_stage3_struct.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/fpmul_stage3_struct.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity fpmul_stage3
+-- Compiling architecture struct of fpmul_stage3
+-- Loading package std_logic_unsigned
+-- Loading entity fpnormalize
+-- Loading entity fpround
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/unpackfp_unpackfp.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/common/unpackfp_unpackfp.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity unpackfp
+-- Compiling architecture unpackfp of unpackfp
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/tb/tb_fpmul_reg.v {1 {vlog -work work -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/tb/tb_fpmul_reg.v
+Model Technology ModelSim SE vlog 6.2g Compiler 2007.02 Feb 21 2007
+-- Compiling module tb_fpmul
+
+Top level modules:
+	tb_fpmul
+
+} {} {}} /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/fpmul_stage2_struct_mbe.vhd {1 {vcom -work work -2002 -explicit -vopt /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/src/fpmul_stage2_struct_mbe.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity fpmul_stage2
+-- Compiling architecture struct of fpmul_stage2
+-- Loading entity ff
+-- Loading entity reg
+-- Loading package numeric_std
+-- Loading entity mbe_multiplier
+
+} {} {}}

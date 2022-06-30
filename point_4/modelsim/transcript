@@ -1,0 +1,990 @@
+# //  ModelSim SE 6.2g Feb 21 2007 Linux 3.10.0-957.5.1.el7.x86_64
+# //
+# //  Copyright 1991-2007 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading project mbe_multiplier_proj
+ls
+# log
+# mbe_multiplier_proj.cr.mti
+# mbe_multiplier_proj.mpf
+# mbe_sim.cr.mti
+# mbe_sim.mpf
+# open_modelsim.sh
+# scripts
+# simulate.sh~
+# transcript
+# tr_db.log
+# vsim_stacktrace.vstf
+# vsim.wlf
+# work
+do scripts/run_simulate.do
+# Cannot open macro file: scripts/run_simulate.do
+ls
+# log
+# mbe_multiplier_proj.cr.mti
+# mbe_multiplier_proj.mpf
+# mbe_sim.cr.mti
+# mbe_sim.mpf
+# open_modelsim.sh
+# scripts
+# simulate.sh~
+# transcript
+# tr_db.log
+# vsim_stacktrace.vstf
+# vsim.wlf
+# work
+cd /home/isa18_2021_2022/github/isa/lab4/point_4/modelsim
+# reading /software/mentor/modelsim_6.2g/linux/../modelsim.ini
+do scripts/run_simulate.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Loading project mbe_multiplier_proj
+# Compile of fpmul_stage2_struct_mbe.vhd failed with 2 errors.
+# Compile of MBE_multiplier_tb.vhd failed with 1 errors.
+# Compile of dadda_tree.vhd was successful.
+# Compile of full_adder.vhd was successful.
+# Compile of mbe_multiplier.vhd was successful.
+# Compile of ff.vhd was successful.
+# Compile of half_adder.vhd was successful.
+# Compile of reg.vhd was successful.
+# Compile of fpmul_pipeline_reg.vhd failed with 3 errors.
+# Compile of MBE_encoder.vhd was successful.
+# Compile of fpmul_stage1_struct.vhd failed with 1 errors.
+# Compile of fpmul_stage4_struct.vhd failed with 1 errors.
+# Compile of packfp_packfp.vhd was successful.
+# Compile of fpmul_stage2_struct.vhd was successful.
+# Compile of fpnormalize_fpnormalize.vhd was successful.
+# Compile of unpackfp_unpackfp.vhd was successful.
+# Compile of fpmul_stage3_struct.vhd failed with 1 errors.
+# Compile of fpround_fpround.vhd was successful.
+# Compile of clk_gen.vhd was successful.
+# Compile of data_maker.vhd was successful.
+# Compile of data_sink.vhd was successful.
+# Compile of data_sink_stage2_opt.vhd was successful.
+# Compile of tb_fpmul_reg.v was successful.
+# 23 compiles, 6 failed with 9 errors. 
+project compileall
+# Compile of fpmul_stage2_struct_mbe.vhd was successful.
+# Compile of MBE_multiplier_tb.vhd failed with 1 errors.
+# Compile of dadda_tree.vhd was successful.
+# Compile of full_adder.vhd was successful.
+# Compile of mbe_multiplier.vhd was successful.
+# Compile of ff.vhd was successful.
+# Compile of half_adder.vhd was successful.
+# Compile of reg.vhd was successful.
+# Compile of fpmul_pipeline_reg.vhd was successful.
+# Compile of MBE_encoder.vhd was successful.
+# Compile of fpmul_stage1_struct.vhd was successful.
+# Compile of fpmul_stage4_struct.vhd was successful.
+# Compile of packfp_packfp.vhd was successful.
+# Compile of fpmul_stage2_struct.vhd was successful.
+# Compile of fpnormalize_fpnormalize.vhd was successful.
+# Compile of unpackfp_unpackfp.vhd was successful.
+# Compile of fpmul_stage3_struct.vhd was successful.
+# Compile of fpround_fpround.vhd was successful.
+# Compile of clk_gen.vhd was successful.
+# Compile of data_maker.vhd was successful.
+# Compile of data_sink.vhd was successful.
+# Compile of data_sink_stage2_opt.vhd was successful.
+# Compile of tb_fpmul_reg.v was successful.
+# 23 compiles, 1 failed with 1 error. 
+project compileall
+# Compile of fpmul_stage2_struct_mbe.vhd was successful.
+# Compile of MBE_multiplier_tb.vhd failed with 1 errors.
+# Compile of dadda_tree.vhd was successful.
+# Compile of full_adder.vhd was successful.
+# Compile of mbe_multiplier.vhd was successful.
+# Compile of ff.vhd was successful.
+# Compile of half_adder.vhd was successful.
+# Compile of reg.vhd was successful.
+# Compile of fpmul_pipeline_reg.vhd was successful.
+# Compile of MBE_encoder.vhd was successful.
+# Compile of fpmul_stage1_struct.vhd was successful.
+# Compile of fpmul_stage4_struct.vhd was successful.
+# Compile of packfp_packfp.vhd was successful.
+# Compile of fpmul_stage2_struct.vhd was successful.
+# Compile of fpnormalize_fpnormalize.vhd was successful.
+# Compile of unpackfp_unpackfp.vhd was successful.
+# Compile of fpmul_stage3_struct.vhd was successful.
+# Compile of fpround_fpround.vhd was successful.
+# Compile of clk_gen.vhd was successful.
+# Compile of data_maker.vhd was successful.
+# Compile of data_sink.vhd was successful.
+# Compile of data_sink_stage2_opt.vhd was successful.
+# Compile of tb_fpmul_reg.v was successful.
+# 23 compiles, 1 failed with 1 error. 
+project compileall
+# Compile of fpmul_stage2_struct_mbe.vhd was successful.
+# Compile of dadda_tree.vhd was successful.
+# Compile of full_adder.vhd was successful.
+# Compile of mbe_multiplier.vhd was successful.
+# Compile of ff.vhd was successful.
+# Compile of half_adder.vhd was successful.
+# Compile of reg.vhd was successful.
+# Compile of fpmul_pipeline_reg.vhd was successful.
+# Compile of MBE_encoder.vhd was successful.
+# Compile of fpmul_stage1_struct.vhd was successful.
+# Compile of fpmul_stage4_struct.vhd was successful.
+# Compile of packfp_packfp.vhd was successful.
+# Compile of fpmul_stage2_struct.vhd was successful.
+# Compile of fpnormalize_fpnormalize.vhd was successful.
+# Compile of unpackfp_unpackfp.vhd was successful.
+# Compile of fpmul_stage3_struct.vhd was successful.
+# Compile of fpround_fpround.vhd was successful.
+# Compile of clk_gen.vhd was successful.
+# Compile of data_maker.vhd was successful.
+# Compile of data_sink.vhd was successful.
+# Compile of data_sink_stage2_opt.vhd was successful.
+# Compile of tb_fpmul_reg.v was successful.
+# 22 compiles, 0 failed with no errors. 
+run 2 us
+# No Design Loaded!
+# Load canceled
+vsim work.tb_fpmul
+# vsim work.tb_fpmul 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading work.tb_fpmul(fast)
+# Loading /software/mentor/modelsim_6.2g/linux/../std.standard
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_1164(body)
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_arith(body)
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_unsigned(body)
+# Loading work.clk_gen(beh)
+# Loading /software/mentor/modelsim_6.2g/linux/../std.textio(body)
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_textio(body)
+# Loading work.data_maker(beh)
+# ** Error: (vsim-7) Failed to open VHDL file "../samples/fp_samples.hex" in r mode.
+# No such file or directory. (errno = ENOENT)
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/SM
+# Loading work.fpmul(pipeline)#1
+# Loading work.fpmul_stage1(struct)
+# Loading work.unpackfp(unpackfp)
+# Loading work.fpmul_stage2(struct)
+# Loading work.fpmul_stage3(struct)#1
+# Loading work.fpnormalize(fpnormalize)#1
+# Loading work.fpround(fpround)#1
+# Loading work.fpmul_stage4(struct)
+# Loading work.packfp(packfp)
+# Loading work.reg(str)#1
+# Loading work.data_sink(beh)
+# ** Error: (vsim-7) Failed to open VHDL file "../results/results_fpmul_reg_stage2_opt.hex" in r+ mode.
+# No such file or directory. (errno = ENOENT)
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/DS
+quit -sim
+vsim work.tb_fpmul
+# vsim work.tb_fpmul 
+# Loading work.tb_fpmul(fast)
+# Loading /software/mentor/modelsim_6.2g/linux/../std.standard
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_1164(body)
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_arith(body)
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_unsigned(body)
+# Loading work.clk_gen(beh)
+# Loading /software/mentor/modelsim_6.2g/linux/../std.textio(body)
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_textio(body)
+# Loading work.data_maker(beh)
+# Loading work.fpmul(pipeline)#1
+# Loading work.fpmul_stage1(struct)
+# Loading work.unpackfp(unpackfp)
+# Loading work.fpmul_stage2(struct)
+# Loading work.fpmul_stage3(struct)#1
+# Loading work.fpnormalize(fpnormalize)#1
+# Loading work.fpround(fpround)#1
+# Loading work.fpmul_stage4(struct)
+# Loading work.packfp(packfp)
+# Loading work.reg(str)#1
+# Loading work.data_sink(beh)
+# ** Error: (vsim-7) Failed to open VHDL file "../results/results_fpmul_reg_stage2_opt.hex" in r+ mode.
+# No such file or directory. (errno = ENOENT)
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/DS
+run 2 us
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i3/i11
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i3/i11
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5 ns  Iteration: 4  Instance: /tb_fpmul/UUT/i3/i11
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5 ns  Iteration: 4  Instance: /tb_fpmul/UUT/i3/i11
+# ** Fatal: (vsim-7) Failed to open VHDL file "../results/results_fpmul_reg_stage2_opt.hex" in r+ mode.
+# No such file or directory. (errno = ENOENT)
+#    Time: 15 ns  Iteration: 2  Process: /tb_fpmul/DS/line__21 File: /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/tb/data_sink_stage2_opt.vhd
+# Fatal error in Process line__21 at /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/tb/data_sink_stage2_opt.vhd line 29
+# 
+quit -sim
+vsim work.tb_fpmul
+# vsim work.tb_fpmul 
+# Loading work.tb_fpmul(fast)
+# Loading /software/mentor/modelsim_6.2g/linux/../std.standard
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_1164(body)
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_arith(body)
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_unsigned(body)
+# Loading work.clk_gen(beh)
+# Loading /software/mentor/modelsim_6.2g/linux/../std.textio(body)
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_textio(body)
+# Loading work.data_maker(beh)
+# Loading work.fpmul(pipeline)#1
+# Loading work.fpmul_stage1(struct)
+# Loading work.unpackfp(unpackfp)
+# Loading work.fpmul_stage2(struct)
+# Loading work.fpmul_stage3(struct)#1
+# Loading work.fpnormalize(fpnormalize)#1
+# Loading work.fpround(fpround)#1
+# Loading work.fpmul_stage4(struct)
+# Loading work.packfp(packfp)
+# Loading work.reg(str)#1
+# Loading work.data_sink(beh)
+# ** Error: (vsim-7) Failed to open VHDL file "../results/results_fpmul_reg_stage2_opt.hex" in r+ mode.
+# No such file or directory. (errno = ENOENT)
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/DS
+quit -sim
+vsim work.tb_fpmul
+# vsim work.tb_fpmul 
+# Loading work.tb_fpmul(fast)
+# Loading /software/mentor/modelsim_6.2g/linux/../std.standard
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_1164(body)
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_arith(body)
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_unsigned(body)
+# Loading work.clk_gen(beh)
+# Loading /software/mentor/modelsim_6.2g/linux/../std.textio(body)
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_textio(body)
+# Loading work.data_maker(beh)
+# Loading work.fpmul(pipeline)#1
+# Loading work.fpmul_stage1(struct)
+# Loading work.unpackfp(unpackfp)
+# Loading work.fpmul_stage2(struct)
+# Loading work.fpmul_stage3(struct)#1
+# Loading work.fpnormalize(fpnormalize)#1
+# Loading work.fpround(fpround)#1
+# Loading work.fpmul_stage4(struct)
+# Loading work.packfp(packfp)
+# Loading work.reg(str)#1
+# Loading work.data_sink(beh)
+run 2 us
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i3/i11
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i3/i11
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5 ns  Iteration: 4  Instance: /tb_fpmul/UUT/i3/i11
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5 ns  Iteration: 4  Instance: /tb_fpmul/UUT/i3/i11
+add wave
+# wrong number of args for "add wave".
+# Usage: add wave [-allowconstants] [-color <standard_color_name>] [-depth <level>] [-expand <signal_name>] [-<format>] [-group <group_name> [<sig_name1>...]] [-height <pixels>] [-in] [-inout] [-internal] [-label <name>] [-noupdate] [-offset <offset>] [-optcells] [-out] [-ports] [-<radix>] [-recursive] [-scale <scale>] [-window <wname>] [[-divider <divider_name>...] | [-label <name> | {<object_name> {sig1 sig2 sig3 ...}}] ...]
+add wave *
+run 2 us
+restart
+# Loading work.tb_fpmul(fast)
+run 2 us
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i3/i11
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i3/i11
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_fpmul/UUT/i2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5 ns  Iteration: 4  Instance: /tb_fpmul/UUT/i3/i11
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5 ns  Iteration: 4  Instance: /tb_fpmul/UUT/i3/i11
+quit -sim
+project close
+# reading /software/mentor/modelsim_6.2g/linux/../modelsim.ini
+do scripts/run_postsynth.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Loading project fpmul_post_synth
+# Compile of tb_fpmul_reg.v was successful.
+# Compile of fpmul.v was successful.
+# 2 compiles, 0 failed with no errors. 
+# vsim -L /software/dk/nangate45/verilog/msim6.2g -sdftyp /tb_fpmul/UUT=../netlist/fpmul.sdf work.tb_fpmul 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading work.tb_fpmul(fast)
+# Loading work.FPmul(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.DFF_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.SDFF_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.DFFR_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.NAND3_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.XOR2_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.OR2_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.AND3_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.INV_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.AND2_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.NOR3_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.AOI22_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.OAI211_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.NOR2_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.OAI21_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.AOI211_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.NOR4_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.NAND4_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.NAND2_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.BUF_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.OAI22_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.AOI221_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.AND4_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.OR3_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.CLKBUF_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.HA_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.XNOR2_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.FA_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.OAI222_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.AOI222_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.AOI21_X1(fast)
+# Loading /software/dk/nangate45/verilog/msim6.2g.NOR2_X2(fast)
+# Loading instances from ../netlist/fpmul.sdf
+# Loading /software/mentor/modelsim_6.2g/linux/../std.standard
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_1164(body)
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_arith(body)
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_unsigned(body)
+# Loading work.clk_gen(beh)
+# Loading /software/mentor/modelsim_6.2g/linux/../std.textio(body)
+# Loading /software/mentor/modelsim_6.2g/linux/../ieee.std_logic_textio(body)
+# Loading work.data_maker(beh)
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/tb/tb_fpmul_reg.v(21): [TFMPC] - Too few port connections. Expected 6, found 5.
+#         Region: /tb_fpmul/UUT
+# ** Warning: (vsim-3722) /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/tb/tb_fpmul_reg.v(21): [TFMPC] - Missing connection for port 'en'.
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(522): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_2_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(523): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_3_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(524): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_4_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(525): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_5_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(526): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_6_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(527): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_7_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(528): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_8_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(529): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_9_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(530): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_10_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(531): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_11_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(532): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_12_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(533): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_13_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(534): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_14_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(535): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_15_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(536): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_16_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(537): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_17_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(538): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_18_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(539): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_19_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(540): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_20_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(541): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_21_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(542): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_22_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(543): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_23_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(544): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_24_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(545): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_25_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(546): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIG_in_reg_26_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(550): [TFMPC] - Too few port connections. Expected 6, found 5.
+#         Region: /tb_fpmul/UUT/I3_SIG_out_round_reg_3_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(552): [TFMPC] - Too few port connections. Expected 6, found 5.
+#         Region: /tb_fpmul/UUT/I3_SIG_out_round_reg_4_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(554): [TFMPC] - Too few port connections. Expected 6, found 5.
+#         Region: /tb_fpmul/UUT/I3_SIG_out_round_reg_5_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(564): [TFMPC] - Too few port connections. Expected 6, found 5.
+#         Region: /tb_fpmul/UUT/I3_SIG_out_round_reg_10_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(566): [TFMPC] - Too few port connections. Expected 6, found 5.
+#         Region: /tb_fpmul/UUT/I3_SIG_out_round_reg_11_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(568): [TFMPC] - Too few port connections. Expected 6, found 5.
+#         Region: /tb_fpmul/UUT/I3_SIG_out_round_reg_12_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(576): [TFMPC] - Too few port connections. Expected 6, found 5.
+#         Region: /tb_fpmul/UUT/I3_SIG_out_round_reg_16_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(578): [TFMPC] - Too few port connections. Expected 6, found 5.
+#         Region: /tb_fpmul/UUT/I3_SIG_out_round_reg_17_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(580): [TFMPC] - Too few port connections. Expected 6, found 5.
+#         Region: /tb_fpmul/UUT/I3_SIG_out_round_reg_18_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(588): [TFMPC] - Too few port connections. Expected 6, found 5.
+#         Region: /tb_fpmul/UUT/I3_SIG_out_round_reg_22_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(590): [TFMPC] - Too few port connections. Expected 6, found 5.
+#         Region: /tb_fpmul/UUT/I3_SIG_out_round_reg_23_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(592): [TFMPC] - Too few port connections. Expected 6, found 5.
+#         Region: /tb_fpmul/UUT/I3_SIG_out_round_reg_24_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(600): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_0_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(601): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_0_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(603): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_1_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(604): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_1_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(606): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_2_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(607): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_2_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(609): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_3_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(610): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_3_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(612): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_4_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(613): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_4_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(615): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_5_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(616): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_5_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(618): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_6_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(619): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_6_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(621): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_7_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(622): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_7_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(624): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_8_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(625): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_8_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(627): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_9_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(628): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_9_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(630): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_10_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(631): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_10_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(633): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_11_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(634): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_11_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(636): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_12_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(637): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_12_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(639): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_13_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(640): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_13_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(642): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_14_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(643): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_14_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(645): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_15_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(646): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_15_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(648): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_16_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(649): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_16_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(651): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_17_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(652): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_17_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(654): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_18_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(655): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_18_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(657): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_19_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(658): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_19_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(660): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_20_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(661): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_20_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(663): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_21_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(664): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_21_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(666): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_22_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(667): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_22_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(669): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_23_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(670): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_EXP_reg_0_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(672): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_24_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(673): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_EXP_reg_1_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(675): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_25_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(676): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_EXP_reg_2_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(678): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_26_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(679): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_EXP_reg_3_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(681): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_27_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(682): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_EXP_reg_4_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(684): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_28_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(685): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_EXP_reg_5_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(687): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_29_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(688): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_EXP_reg_6_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(690): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_30_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(691): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_EXP_reg_7_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(692): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_A_SIG_reg_23_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(694): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_A_Q_reg_31_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(696): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_0_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(697): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_0_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(699): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_1_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(700): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_1_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(702): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_2_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(703): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_2_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(705): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_3_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(706): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_3_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(708): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_4_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(709): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_4_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(711): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_5_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(712): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_5_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(714): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_6_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(715): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_6_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(717): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_7_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(718): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_7_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(720): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_8_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(721): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_8_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(723): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_9_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(724): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_9_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(726): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_10_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(727): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_10_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(729): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_11_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(730): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_11_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(732): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_12_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(733): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_12_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(735): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_13_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(736): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_13_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(738): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_14_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(739): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_14_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(741): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_15_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(742): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_15_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(744): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_16_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(745): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_16_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(747): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_17_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(748): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_17_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(750): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_18_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(751): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_18_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(753): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_19_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(754): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_19_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(756): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_20_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(757): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_20_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(759): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_21_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(760): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_21_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(762): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_22_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(763): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_22_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(765): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_23_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(766): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_EXP_reg_0_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(768): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_24_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(769): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_EXP_reg_1_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(771): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_25_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(772): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_EXP_reg_2_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(774): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_26_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(775): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_EXP_reg_3_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(777): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_27_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(778): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_EXP_reg_4_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(780): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_28_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(781): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_EXP_reg_5_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(783): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_29_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(784): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_EXP_reg_6_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(786): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_30_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(787): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_EXP_reg_7_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(790): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_EXP_in_reg_1_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(791): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_EXP_in_reg_2_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(792): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_EXP_in_reg_3_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(793): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_EXP_in_reg_4_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(794): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_EXP_in_reg_5_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(795): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_EXP_in_reg_6_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(796): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_EXP_in_reg_7_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(798): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I3_EXP_out_round_reg_0_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(812): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I3_EXP_out_round_reg_7_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(813): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_EXP_neg_stage2_reg
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(814): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I3_EXP_neg_reg
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(816): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_EXP_pos_stage2_reg
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(817): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I3_EXP_pos_reg
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(818): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_B_SIG_reg_23_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(819): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_isNaN_stage1_reg
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(820): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_isNaN_stage2_reg
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(821): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I3_isNaN_reg
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(822): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_isINF_stage1_reg
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(823): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_isINF_stage2_reg
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(824): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I3_isINF_tab_reg
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(826): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_isZ_tab_stage1_reg
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(828): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_isZ_tab_stage2_reg
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(829): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I3_isZ_tab_reg
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(830): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_22_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(831): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_30_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(832): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_29_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(833): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_28_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(834): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_27_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(835): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_26_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(836): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_25_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(837): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_24_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(838): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_23_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(839): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_9_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(840): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_8_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(841): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_7_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(842): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_6_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(843): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_5_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(844): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_4_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(845): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_3_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(846): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_2_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(847): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_21_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(848): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_20_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(849): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_1_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(850): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_19_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(851): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_18_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(852): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_17_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(853): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_16_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(854): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_15_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(855): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_14_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(856): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_13_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(857): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_12_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(858): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_11_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(859): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_10_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(860): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_0_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(862): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/reg_B_Q_reg_31_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(864): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I1_SIGN_out_stage1_reg
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(866): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I2_SIGN_out_stage2_reg
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(867): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I3_SIGN_out_reg
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(868): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /tb_fpmul/UUT/I4_FP_Z_reg_31_
+# ** Warning: (vsim-3017) /home/isa18_2021_2022/github/isa/lab4/point_4/netlist/fpmul.v(1213): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /tb_fpmul/UUT/add_1_root_I2_add_126_2_U1_7
+# Loading work.data_sink(beh)
+# Loading timing data from ../netlist/fpmul.sdf
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_31_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_30_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_29_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_28_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_27_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_26_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_25_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_24_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_23_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_22_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_21_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_20_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_19_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_18_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_17_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_16_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_15_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_14_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_13_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_12_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_11_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_10_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_9_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_8_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_7_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_6_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_5_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_4_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_3_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_2_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_1_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_B_Q_reg_0_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_31_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_30_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_29_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_28_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_27_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_26_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_25_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_24_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_23_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_22_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_21_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_20_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_19_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_18_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_17_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_16_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_15_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_14_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_13_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_12_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_11_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_10_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_9_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_8_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_7_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_6_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_5_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_4_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_3_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_2_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_1_
+# ** Warning: (vsim-3448) nofile(1758): Setting negative specify check constraint (0 ns) to zero.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fpmul/UUT/reg_A_Q_reg_0_
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ns  Iteration: 0  Region: /tb_fpmul  File: /home/isa18_2021_2022/github/isa/lab4/point_4/hdl/tb/tb_fpmul_reg.v
